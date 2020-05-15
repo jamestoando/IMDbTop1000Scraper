@@ -18,6 +18,3 @@ The main purpose of this Python-based program is to create a database consists o
 1.  top1000imdb.py
 2.  data.csv (updated on Sep 10th, 2019)
 3.  README.txt
-4.  CS483-A1.pdf
-5.  CS483-A1.tex
-
